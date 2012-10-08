@@ -39,3 +39,6 @@ gem 'jquery-rails'
 # gem 'ruby-debug'
 
 gem 'therubyracer'
+gem 'twitter-bootstrap-rails'
+
+gem 'sqlite3'
